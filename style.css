@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+}
+
+.card__wrapper {  
+    width: 1200px;
+    margin: 30px auto;
+}
+
+.card__wrapper .card {
+    box-shadow: 0 0 2px black;
+    width: 23%;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 0.86%;
+    background-color: white;
+    transition-duration: 1s;
+    color: black;
+}
+
+.card__wrapper .card:hover {
+    background-color: blue;
+    color: white;
+    box-shadow: 0 0 12px black;
+    border-radius: 50px;
+}
+
+.card__wrapper .card:active {
+    background-color: red;
+    color: white;
+}
+
+.card__wrapper .card h3 {
+    margin: 10px 0;
+    font-size: 22px;
+}
+
+.card__wrapper .card {
+    font-family: cursive;
+}
+
+.card__wrapper .card img {
+    width: 100%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.card__wrapper .card button {
+    margin-top: 10px;
+    padding: 8px 20px;
+    border: 1px solid black;
+    background: none;
+    color: black;
+}
+
+.card__wrapper .card:hover button {
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+}
+
+.card__wrapper .card:active button {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
